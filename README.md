@@ -116,10 +116,10 @@ Array of Squares Divisible by 3:
 [   9   36   81  144 ... 9801]
 
 ```
-🛠 Software(s) Used
+# 🛠 Software(s) Used
 <p align="left"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="120"/> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Logo" width="90"/> </p>
 📂 Repository Information
 
-Languages Used:
+# Languages Used:
 
 Python (100%)
