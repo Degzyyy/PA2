@@ -27,7 +27,7 @@ X_norm = (X - mean) / std
 
 5. Load and print the results to confirm correctness.
 
-✅ Input:
+# ✅ Input:
 ```
 # PA 2 – Problem 1: NORMALIZATION PROBLEM
 
@@ -52,7 +52,7 @@ print("\nNormalized Array (X_normalized):\n", X_norm)
 ```
 
 
-✅ Output:
+# ✅ Output:
 ```
 Original Array (X):
 [[0.3303 0.3979 0.5035 ... 0.3271]
@@ -83,7 +83,7 @@ Use modulo % to find numbers divisible by 3.
 
 Save the result as div_by_3.npy.
 
-✅ Input:
+# ✅ Input:
 ```
 # PA 2 – Problem 2: DIVISIBLE BY 3 PROBLEM
 
@@ -104,7 +104,7 @@ print("\nArray of Squares Divisible by 3:\n")
 print(div_by_3)
 ```
 
-✅ Output:
+# ✅ Output:
 ```
 Original 10x10 Array:
 [[    1     4     9 ...   100]
