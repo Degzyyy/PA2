@@ -67,7 +67,7 @@ Normalized Array (X_normalized):
  [-1.0070  0.4360  1.9976  0.2089]]
 ```
 
-📌 Problem 2: Divisible by 3 Problem
+# 📌 Problem 2: Divisible by 3 Problem
 
 This problem generates the squares of the first 100 positive integers, reshapes them into a 10×10 array, and filters values that are divisible by 3.
 
