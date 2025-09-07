@@ -1,7 +1,7 @@
 # 📘 PA 2 – Programming Assignment
 
-👨‍💻 Author: Joshua de Guzman
-📅 Date: September 09, 2024
+👨‍💻 Author: Joshua de Guzman <br>
+📅 Date: September 09, 2024 <br>
 📚 Course: ECE2112 – Programming Assignment
 
 # 📌 Version History
