@@ -8,9 +8,9 @@
 
 V1.0 (09-09-24) – Initial Release and Submission of GitHub Link
 
-V1.1 (09-15-24) – Added README Documentation for Problems
+V1.1 (09-10-24) – Added README Documentation for Problems
 
-V1.2 (09-15-24) – Added Code Snippets and Outputs in README
+V1.2 (09-11-24) – Added Code Snippets and Outputs in README
 
 # 📌 Problem 1: Normalization Problem
 
